@@ -1,0 +1,13 @@
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\bin\Debug\netcoreapp3.1\NumbersToNames.exe
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\bin\Debug\netcoreapp3.1\NumbersToNames.deps.json
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\bin\Debug\netcoreapp3.1\NumbersToNames.runtimeconfig.json
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\bin\Debug\netcoreapp3.1\NumbersToNames.runtimeconfig.dev.json
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\bin\Debug\netcoreapp3.1\NumbersToNames.dll
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\bin\Debug\netcoreapp3.1\NumbersToNames.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.csprojAssemblyReference.cache
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.AssemblyInfoInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.AssemblyInfo.cs
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.dll
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\NumbersToNames\obj\Debug\netcoreapp3.1\NumbersToNames.genruntimeconfig.cache
